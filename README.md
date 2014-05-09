@@ -1,6 +1,8 @@
 SLI-Exercise
 ============
 
+Demo: http://sli-exercise.herokuapp.com/
+
 **SLI Exercise.**
 
 Items to find: 
